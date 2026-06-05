@@ -27,4 +27,4 @@ Open `freight_portfolio.html` in a browser to view the interactive portfolio ver
 
 ## About
 
-Built by [Tenesha "Nena" Caviness](https://linkedin.com/in/nenacaviness) | Santa Rosa, CA
+Built by [Nena Caviness](https://linkedin.com/in/nenacaviness) | Santa Rosa, CA
