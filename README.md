@@ -1,4 +1,4 @@
-# Freight Workflow Automation
+# Logistics Workflow Automation
 
 End-to-end freight logistics system designed and implemented for a B2B manufacturer shipping heavy equipment to pharmaceutical, beverage, and food processing customers nationwide.
 
