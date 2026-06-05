@@ -23,7 +23,7 @@ A structured 13-step workflow connecting five existing tools into a single syste
 
 ## View the Case Study
 
-Open `freight_portfolio.html` in a browser to view the interactive portfolio version with clickable workflow phases.
+Open `logistics-automation.html` in a browser to view the interactive portfolio version with clickable workflow phases.
 
 ## About
 
